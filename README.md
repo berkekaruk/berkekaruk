@@ -1,22 +1,28 @@
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=berkekaruk&label=Profile%20Views&color=222222&style=flat-square" alt="berkekaruk" />
+  <img src="https://komarev.com/ghpvc/?username=berkekaruk&label=Profile%20Views&color=222222&style=flat-square" alt="Profile Views" />
 </p>
 
-# Berke Karuk 💻
+# Berke Karuk 👨🏻‍💻
 **Technical Program Manager | M.Sc. Business Informatics | Software Engineering Candidate**
 
-I am a technical leader transitioning into core **Software Engineering**. I combine an **elite academic record** with the professional maturity of delivering technical solutions within large-scale corporate ecosystems like **Munich Re** and **ERGO Group AG**.
+I am a technical professional transitioning from project leadership into core **Software Engineering**. I combine an **elite academic record** with three years of deep corporate immersion within the **Munich Re / ERGO Group** ecosystem.
 
 ---
 
 ### 🎓 Academic Excellence
-* **Master of Science: Business Informatics** | Expected April 2027.
-* **Bachelor of Science: Business Informatics** | **Graduated as "Best in Year" (Top of Class)**.
-* **Achievement**: **1.4 GPA** with an official Certificate of Excellence.
+* **Master of Science: Business Informatics** | Expected April 2027
+* **Bachelor of Science: Business Informatics** | **Graduated as "Best in Year" (Top of Class)**
+* **Academic Performance**: **1.4 GPA** with an official Certificate of Excellence (Sept 2024)
 
 ### 💼 Professional Pedigree
-* **Current Role**: Technical Program Manager.
-* **Enterprise Experience**: Extensive work within global insurance and reinsurance environments utilizing **Azure DevOps**, **Jira**, and **Confluence** for technical project delivery.
+* **Current Role**: Technical Program Manager
+* **Enterprise Dual Study (Aug 2021 – Sept 2024)**: Completed a 3-year integrated degree program at **ERGO Group AG / Munich Re**.
+  * **Rotational Experience**: Gained cross-functional exposure across various IT departments, mastering the software lifecycle within a global insurance leader.
+  * **Environment**: Specialized in technical project delivery using **Azure DevOps** and agile methodologies.
+
+### 📜 Certifications & Methodologies
+* **Professional Scrum Master I (PSM I)** | Scrum.org (Issued: June 2023)
+* **PRINCE2® 6th Edition Foundation** | Project Management (Issued: Dec 2024)
 
 ---
 
@@ -30,20 +36,20 @@ I am a technical leader transitioning into core **Software Engineering**. I comb
 ---
 
 ### 📊 Engineering Momentum
-* **Current Focus**: Mastering C & Memory Management (Harvard CS50) and Advanced Java Backend Systems.
-* **Transparency**: I document my technical growth and code samples in my [**learning-log**](https://github.com/berkekaruk/learning-log).
+* **Technical Growth**: Mastering C & Memory Management (Harvard CS50) and Advanced Java Backend Systems.
+* **Evidence of Learning**: I document my code samples and architectural notes in my [**learning-log**](https://github.com/berkekaruk/learning-log).
 
 ### 📈 Activity Overview
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=berkekaruk&theme=dark&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=berkekaruk&theme=dark&show_icons=true&count_private=true&hide_border=true&hide_title=true" alt="" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=berkekaruk&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=berkekaruk&theme=dark&hide_border=true&hide_title=true" alt="" />
 </p>
 
 ---
 
 ### 🎯 The Objective
-To leverage my unique background in project architecture and academic excellence to build scalable, high-impact systems within a world-class engineering organization.
+To leverage my background in enterprise project architecture, certified methodologies, and academic excellence to build scalable, high-impact systems within a world-class engineering organization.
 
 ### 📫 Contact
 **Email**: [berke@karuk.de](mailto:berke@karuk.de)
