@@ -1,26 +1,49 @@
-# Hi there, I'm Berke! 👋
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=berkekaruk&label=Profile%20Views&color=222222&style=flat-square" alt="berkekaruk" />
+</p>
 
-### 🛠 Technical Program Manager | M.Sc. Business Informatics | Software Engineering Candidate
+# Berke Karuk 💻
+**Technical Program Manager | M.Sc. Business Informatics | Software Engineering Candidate**
 
-I am a high-performance professional transitioning from technical project leadership to core Software Engineering. I combine an elite academic record with hands-on experience in complex corporate ecosystems like **ERGO Group AG** and **Munich Re**.
-
----
-
-### 🎓 Academic Excellence & Background
-* **Master of Science:** Business Informatics (Expected graduation: April 2027).
-* **Bachelor of Science:** Graduated as **Top of Class (Best in Year)** with a **1.4 GPA** (Sept 2024).
-* **Awards:** Received a formal certificate of excellence for outstanding academic performance.
-
-### 💼 Professional Experience
-* **Technical Program Manager:** Currently delivering complex technical projects and managing cross-functional teams.
-* **Corporate Background:** Significant experience within the **Munich Re** environment, focusing on technical implementation and bridge-building between business and IT.
-
-### 💻 Current Technical Focus
-* **Languages:** Deep-diving into **Java 21** and Backend Systems architecture.
-* **Engineering Mindset:** Transitioning from "managing the plan" to "building the code".
-* **Learning Journey:** I am documenting my progress in my [/learning-log](https://github.com/berkekaruk/learning-log).
+I am a technical leader transitioning into core **Software Engineering**. I combine an **elite academic record** with the professional maturity of delivering technical solutions within large-scale corporate ecosystems like **Munich Re** and **ERGO Group AG**.
 
 ---
 
-### 🎯 My Goal
-My objective is to leverage my unique mix of project management and technical proficiency to join a **world-class engineering team**.
+### 🎓 Academic Excellence
+* **Master of Science: Business Informatics** | Expected April 2027.
+* **Bachelor of Science: Business Informatics** | **Graduated as "Best in Year" (Top of Class)**.
+* **Achievement**: **1.4 GPA** with an official Certificate of Excellence.
+
+### 💼 Professional Pedigree
+* **Current Role**: Technical Program Manager.
+* **Enterprise Experience**: Extensive work within global insurance and reinsurance environments utilizing **Azure DevOps**, **Jira**, and **Confluence** for technical project delivery.
+
+---
+
+### 💻 Technical Stack & Ecosystem
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Engineering** | ![Java](https://img.shields.io/badge/-Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white) ![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white) |
+| **Infrastructure** | ![Git](https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white) ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white) |
+| **Management** | ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white) ![Kanban](https://img.shields.io/badge/-Kanban-blue?style=flat-square) |
+
+---
+
+### 📊 Engineering Momentum
+* **Current Focus**: Mastering C & Memory Management (Harvard CS50) and Advanced Java Backend Systems.
+* **Transparency**: I document my technical growth and code samples in my [**learning-log**](https://github.com/berkekaruk/learning-log).
+
+### 📈 Activity Overview
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=berkekaruk&theme=dark&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=berkekaruk&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🎯 The Objective
+To leverage my unique background in project architecture and academic excellence to build scalable, high-impact systems within a world-class engineering organization.
+
+### 📫 Contact
+**Email**: [berke@karuk.de](mailto:berke@karuk.de)
